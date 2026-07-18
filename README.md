@@ -21,6 +21,15 @@ Instead of replacing the candidate, InterviewAssist helps them:
 - ⚡ Generate concise talking points in seconds
 - 🧠 Reduce cognitive load during high-pressure interviews
 
+Personalized Context
+
+InterviewAssist goes beyond generic AI responses by incorporating:
+
+Candidate résumé and experience
+Employer job description
+Live interview transcript
+Current interview question
+
 Current technology stack includes:
 
 - ASP.NET Core
