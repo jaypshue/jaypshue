@@ -1,77 +1,78 @@
-# Hi, I'm Jay Shue 👋
+# Hi, I'm Jay 👋
 
-Senior Software Engineer with 20+ years of experience building enterprise software, now focused on creating AI-powered products.
+I'm a Senior Software Engineer with 20+ years of experience building enterprise software across healthcare, insurance, banking, and retail.
 
-I'm currently building **InterviewAssist**—a real-time AI copilot that listens to live interviews, understands the conversation, and provides coaching designed for **2–5 second glances** with minimal cognitive load.
+Today my focus is on something different:
+
+> Building AI-powered products that help people perform better.
 
 ---
 
 ## 🚀 Current Project
 
-### InterviewAssist
+# InterviewAssist
 
-A real-time AI interview copilot built with:
+An AI copilot that provides real-time coaching during live technical interviews.
 
-- C#
+Instead of replacing the candidate, InterviewAssist helps them:
+
+- 🎯 Stay focused on the interviewer's question
+- 💬 Surface relevant experience
+- ⚡ Generate concise talking points in seconds
+- 🧠 Reduce cognitive load during high-pressure interviews
+
+Current technology stack includes:
+
 - ASP.NET Core
 - Blazor
 - SignalR
 - OpenAI
 - Docker
 
-The goal isn't to build another chatbot.
-
-The goal is to help people perform better during real conversations.
-
-### Current Areas of Focus
-
-- 🎤 Live transcription
-- 🧠 AI-powered interview coaching
-- 👤 Candidate context
-- 🏢 Employer context
-- ⚡ Human-centered AI UX
-- 🧪 Deterministic regression testing
+➡️ **Featured repository below**
 
 ---
 
-## 💡 What I Enjoy Building
+## 💡 What I'm Interested In
 
-- AI-powered applications
-- Developer productivity tools
-- Enterprise backend systems
-- Cloud-native architecture
-- Products with exceptional user experience
+I enjoy building software at the intersection of:
+
+- Artificial Intelligence
+- Developer Productivity
+- Real-Time Systems
+- Cloud Applications
+- Human-Centered UX
 
 ---
 
 ## 🛠 Core Technologies
 
-**Backend**
+### Backend
 
 - C#
 - ASP.NET Core
 - Java
 - Spring Boot
 
-**Frontend**
+### Frontend
 
 - Blazor
 - React
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
+- Docker
 - Azure
 - AWS
-- Docker
 - GitHub Actions
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Repository
 
-➡️ **InterviewAssist** *(Pinned Repository)*
+➡️ **InterviewAssist**
 
-The best place to see what I'm currently building.
+Building an AI copilot for live technical interviews.
 
 ---
 
