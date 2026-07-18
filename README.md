@@ -1,22 +1,36 @@
 # Hi, I'm Jay Shue 👋
 
-I'm a Senior Software Engineer with 20+ years of experience building enterprise software—and I'm currently focused on building AI products.
+Senior Software Engineer with 20+ years of experience building enterprise software, now focused on creating AI-powered products.
 
-## 🚀 Currently Building
+I'm currently building **InterviewAssist**—a real-time AI copilot that listens to live interviews, understands the conversation, and provides coaching designed for **2–5 second glances** with minimal cognitive load.
+
+---
+
+## 🚀 Current Project
 
 ### InterviewAssist
 
-A real-time AI interview copilot built with .NET, Blazor, SignalR and OpenAI.
+A real-time AI interview copilot built with:
 
-InterviewAssist listens to live interviews, understands the conversation, and provides coaching designed for **2–5 second glances** with minimal cognitive load.
+- C#
+- ASP.NET Core
+- Blazor
+- SignalR
+- OpenAI
+- Docker
 
-Current focus:
+The goal isn't to build another chatbot.
+
+The goal is to help people perform better during real conversations.
+
+### Current Areas of Focus
 
 - 🎤 Live transcription
 - 🧠 AI-powered interview coaching
 - 👤 Candidate context
 - 🏢 Employer context
 - ⚡ Human-centered AI UX
+- 🧪 Deterministic regression testing
 
 ---
 
@@ -25,26 +39,27 @@ Current focus:
 - AI-powered applications
 - Developer productivity tools
 - Enterprise backend systems
-- Cloud-native architectures
-- Products that solve real problems
+- Cloud-native architecture
+- Products with exceptional user experience
 
 ---
 
-## 🛠️ Technologies
+## 🛠 Core Technologies
 
 **Backend**
+
 - C#
 - ASP.NET Core
 - Java
 - Spring Boot
-- SQL Server
-- Oracle
 
 **Frontend**
+
 - Blazor
 - React
 
 **Cloud & DevOps**
+
 - Azure
 - AWS
 - Docker
