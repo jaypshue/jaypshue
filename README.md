@@ -12,7 +12,7 @@ InterviewAssist helps you **during** the interview by listening to the conversat
 
 InterviewAssist allows candidates to provide résumé and employer context before the interview begins, enabling more personalized coaching.
 
-![Interview Startup](docs/images/screenshot_startup.jpg)
+![Interview Startup](https://raw.githubusercontent.com/jaysphue/InterviewAssistant/main/docs/images/screenshot_startup.jpg)
 
 ---
 
@@ -20,7 +20,8 @@ InterviewAssist allows candidates to provide résumé and employer context befor
 
 As interview questions are detected, InterviewAssist analyzes the conversation and provides concise coaching tailored to both the candidate and the employer.
 
-![Interview Active](docs/images/screenshot_active.jpg)
+![Interview Startup](https://raw.githubusercontent.com/jaysphue/InterviewAssistant/main/docs/images/screenshot_active.jpg)
+
 
 ---
 
